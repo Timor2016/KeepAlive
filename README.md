@@ -14,7 +14,7 @@ https://keepaliveplus.oss-cn-hangzhou.aliyuncs.com/keepAlivePlus.apk
 
 ## 效果图
 
-![gif](https://github.com/Timor2016/KeepAlive/blob/main/tutieshi_592x1280_14s.gif)
+![gif](https://hexoimg.chaochaoke.top/tutieshi_592x1280_14s.gif)
 
 ## 微信（添加时请备注保活）
 
